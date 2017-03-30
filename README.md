@@ -89,7 +89,8 @@ command-line arguments ("-Rg -JN180/10i"), as keyword arguments (R='g',
 J='N180/10i'), or as long-form aliases (region='g', projection='N180/10i').
 The Python interface relies on new features in GMT that are currently under
 development in the trunk of the SVN repository, mainly the "modern" execution
-mode, which greatly simplify the building of Postscript figures and maps.
+mode, which greatly simplify the building of Postscript figures and maps
+(http://gmt.soest.hawaii.edu/boards/2/topics/4930).
 We are working in close collaboration with the rest of the GMT core developers
 to make changes on the GMT side as we exercise the new C API and discover bugs
 and missing features.
