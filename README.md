@@ -97,7 +97,7 @@ A prototype is not yet available but is predicted in time for the conference in
 July.
 We are open and eager for contributions and feedback from the Scipy community.
 
-
+----
 
 > Include links to source code, articles, blog posts, or other writing that
 > adds context to the presentation.
