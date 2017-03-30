@@ -5,9 +5,7 @@ and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)
 
 
-Talk proposal about the
-[new Python interface](https://github.com/GenericMappingTools/gmt-python)
-for Scipy 2017.
+Talk proposal for Scipy 2017.
 
 
 ## Abstract
@@ -100,6 +98,7 @@ July.
 We are open and eager for contributions and feedback from the Scipy community.
 
 
+
 > Include links to source code, articles, blog posts, or other writing that
 > adds context to the presentation.
 
@@ -108,6 +107,7 @@ Related resources:
 * Github repository for gmt-python: https://github.com/GenericMappingTools/gmt-python
 * The GMT website: http://gmt.soest.hawaii.edu/
 * Design of the GMT "modern" execution mode: http://gmt.soest.hawaii.edu/boards/2/topics/4930
+
 
 > If you've given a talk, tutorial, or other presentation before, include that
 > information as well as a link to slides or a video if they're available.
@@ -119,48 +119,31 @@ Past presentations by Leonardo:
 * Slides and information from all the other talks that I have given: http://www.leouieda.com/talks/
 * Teaching material for university courses and workshops: http://www.leouieda.com/teaching/
 
+
 > Do you intend to present a demo?
 
 Yes. I'll show our current efforts and results using Jupyter notebooks.
 
+
 > Does the work make any new contributions to open-source software?
 
 Yes. We are building a new open-source library.
+
 
 > Which existing open-source tools does it use?
 
 The library is a wrapper over the open-source Generic Mapping Tools library.
 We'll also use numpy and xarray for input and output.
 
+
 > What science fields are impacted by the work?
 
 Mostly the geosciences but it is also relevant for general purpose plotting in
 Python.
+
 
 > How does the work fit into the Scientific Python community?
 
 We are bringing a widely used tool in our community to the Python ecosystem.
 There is potential to recruit existing GMT users to Python as well as new users
 to GMT.
-
-
-## Tips and instructions from the conference website
-
-> Your placement in the program will be based on reviews of your detailed
-> description. This should be a roughly 500 word detailed outline of your
-> presentation. This outline should concisely describe software of interest to
-> the SciPy community, tools or techniques for more effective computing, or how
-> scientific Python was applied to solve a research problem. A traditional
-> background/motivation, methods, results, and conclusion structure is
-> encouraged but not required. Links to project websites, source code
-> repositories, figures, full papers, and evidence of public speaking ability
-> are encouraged.
-
-Tips from the website:
-
-> Who is the intended audience for your talk?
-
-> What, specifically, will attendees learn from your talk?
-
-> Does it have a traditional background/motivation, methods, results, and
-> conclusion structure?
