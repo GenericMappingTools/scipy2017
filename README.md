@@ -20,7 +20,7 @@ initial prototype of the library.
 Our wrapper connects to the GMT C API using ctypes and allows input and
 output using data from numpy ndarrays and xarray Datasets.
 The library is still in early stages of design and implementation and
-are eager for contributions and feedback from the Scipy community.
+we are eager for contributions and feedback from the Scipy community.
 
 
 ## Extended Abstract
