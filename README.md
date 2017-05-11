@@ -7,6 +7,8 @@ and
 
 Talk proposal for Scipy 2017.
 
+See the reviews for the proposal in the [reviews.md](reviews.md) file.
+
 
 ## Abstract
 
@@ -107,7 +109,8 @@ A prototype is not yet available but is predicted in time for the conference in
 July.
 We are open and eager for contributions and feedback from the Scipy community.
 
-----
+
+## Supporting information
 
 > Include links to source code, articles, blog posts, or other writing that
 > adds context to the presentation.
@@ -157,3 +160,16 @@ Python.
 We are bringing a widely used tool in our community to the Python ecosystem.
 There is potential to recruit existing GMT users to Python as well as new users
 to GMT.
+
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br>
+This content is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+4.0 International License</a>.
+
+All source code is distributed under the [BSD 3-clause
+License](https://opensource.org/licenses/BSD-3-Clause).

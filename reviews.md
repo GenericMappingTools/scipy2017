@@ -3,7 +3,7 @@
 This year, [Scipy is using a double-open peer-review
 system](https://scipy2017.scipy.org/ehome/220975/532468/), meaning that both
 authors and reviewers know each others identities.
-These are the reviews that we got for out proposal (posted with permission).
+These are the reviews that we got for our proposal (posted with permission).
 
 
 ## Review 1 - [Paul Celicourt](http://hydrounits.com/)
