@@ -7,7 +7,8 @@ and
 
 Talk proposal for Scipy 2017.
 
-See the reviews for the proposal in the [reviews.md](reviews.md) file.
+See the reviews for the proposal in the [reviews.md](reviews.md) file
+and our replies at http://www.leouieda.com/blog/scipy2017-reviews.html
 
 
 ## Abstract
