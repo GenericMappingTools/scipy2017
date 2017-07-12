@@ -1,0 +1,12 @@
+name: scipy2017
+channels:
+    - conda-forge/label/dev
+    - conda-forge
+dependencies:
+    - python=3.6
+    - pip
+    - numpy
+    - jupyter
+    - gmt=6.0.0a4
+    - pip:
+        - https://github.com/GenericMappingTools/gmt-python/archive/master.zip
