@@ -7,6 +7,12 @@ and
 
 Talk at Scipy 2017.
 
+
+||Info|
+|---:|:---|
+|Slides|doi:[10.6084/m9.figshare.7635833](https://doi.org/10.6084/m9.figshare.7635833)|
+|Recoding|[youtu.be/93M4How7R24](https://youtu.be/93M4How7R24)|
+
 * See the initial [talk
   proposal](http://www.leouieda.com/blog/scipy2017-proposal-gmt.html).
 * Read the [reviews we got and our
